@@ -32,4 +32,4 @@ Here's a list:
 
 
 ## TL;DR and download
-[Here](https://drive.google.com/open?id=0ByMhRbTvKiaCaEtydDNRdHdJOEk)'s the spreadsheet. I recommend you clone it to your drive and use it there. Works best when viewed with Google Sheets (It's compatible with Excel, it just looks ugly).
+[Here](https://drive.google.com/open?id=0ByMhRbTvKiaCaEtydDNRdHdJOEk)'s the spreadsheet. I recommend you clone it to your Google Drive and use it there. Works best when viewed with Google Sheets (It's compatible with Excel, it just looks ugly).
