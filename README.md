@@ -13,7 +13,10 @@ Here's a list:
 * Handy reference links
  * Open MM to correct page
  * Search Roll20 Compendium, D20 SRD, or Google for the spell
-* Open 4d10 (0000-1000) Random Magical Effect PDF
+ * Open 4d10 (0000-1000) Random Magical Effect PDF
+* Onboard composite face generator
+ * Easily generate faces with simple dropdowns
+ * Planned feature: generation and storage of composite faces for each NPC.
 * Links to Name Gens:
  * Cowboy names
  * Fantasy names
