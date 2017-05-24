@@ -28,8 +28,17 @@ Here's a list:
  * Can be populated from an external source, the onboard generator or by you.
  * Has spaces for descriptions of characters, so you don't reuse names.
  * Conditional formatting makes clear which names are available and which are taken.
- 
+* Broadcast sheet
+ * Currently supports showing PCs faces, with or without names
 **The spreadsheet is well-annotated with notes. Feel free to ask any questions here.**
+
+## What features are currently planned?
+ * ~~More robust and accurate dice parsing system~~
+ * ~~Fully-functional composite face generator~~
+ * Player tracker within map, with movement speed calculation
+ * Character sheet generator
+ * More functional broadcast sheet, with FoW maps.
+ 
 
 ## Changelog
 A detailed changelog is on the first sheet of the spreadsheet.
