@@ -1,5 +1,5 @@
 # 5e-Combat-Manager
-This is the product of several months of effort. It is a spreadsheet for Dungeons and Dragons 5e that lets you easily search huge databases of spells and monsters. Also allows you to add custom spells/monsters. Features an automatic dice roller and composite face generator, too.
+It is a spreadsheet for Dungeons and Dragons 5e that lets you easily search huge databases of spells and monsters. Also allows you to add custom spells/monsters. Features an automatic dice roller and composite face generator, too.
 
 **Download link at bottom**
 ## What is it?
@@ -11,30 +11,30 @@ Here's a list:
 * Initiative tracker (characters involved in an encounter are automatically sorted by initiative roll)
 * Stat-tracking grid (tracks XP, AC, HP, and conditions of your PCs or monsters)
 * Handy reference links
- * Open MM to correct page
- * Search Roll20 Compendium, D20 SRD, or Google for the spell
- * Open 4d10 (0000-1000) Random Magical Effect PDF
+   * Open MM to correct page
+   * Search Roll20 Compendium, D20 SRD, or Google for the spell
+   * Open 4d10 (0000-1000) Random Magical Effect PDF
 * Onboard composite face generator
- * Generate hundreds of faces automatically, and customize important characters with some really cool conditional formatting
- * Generation and storage of randomized faces per NPC
+   * Generate hundreds of faces automatically, and customize important characters with some really cool conditional formatting
+   * Generation and storage of randomized faces per NPC
 * Links to Name Gens:
- * Cowboy names
- * Fantasy names
- * Place names
- * Modern English names
+   * Cowboy names
+   * Fantasy names
+   * Place names
+   * Modern English names
 * Onboard name gen
- * Uses Kerbal name parts (e.g Thompfrey) with optional "Kerman" surname.
+   * Uses Kerbal name parts (e.g Thompfrey) with optional "Kerman" surname.
+   * Allows for customization of name parts, and last name parts
 * Name chart
- * Can be populated from an external source, the onboard generator or by you.
- * Has spaces for descriptions of characters, so you don't reuse names.
- * Conditional formatting makes clear which names are available and which are taken.
+   * Can be populated from an external source, the onboard generator or by you.
+   * Has spaces for descriptions of characters, so you don't reuse names.
+   * Conditional formatting makes clear which names are available and which are taken.
 * Broadcast sheet
- * Currently supports showing PCs faces, with or without names
+   * Currently supports showing PCs faces, with or without names
+   
 **The spreadsheet is well-annotated with notes. Feel free to ask any questions here.**
 
 ## What features are currently planned?
- * ~~More robust and accurate dice parsing system~~
- * ~~Fully-functional composite face generator~~
  * Player tracker within map, with movement speed calculation
  * Character sheet generator
  * More functional broadcast sheet, with FoW maps.
@@ -44,4 +44,4 @@ Here's a list:
 A detailed changelog is on the first sheet of the spreadsheet.
 
 ## TL;DR and download
-[Here](https://drive.google.com/open?id=0ByMhRbTvKiaCaEtydDNRdHdJOEk)'s the spreadsheet. The first sheet is a table of contents and guide. I recommend you clone it to your Google Drive and use it there. Works best when viewed with Google Sheets (It's compatible with Excel, it just looks ugly).
+[Here](https://drive.google.com/open?id=0ByMhRbTvKiaCaEtydDNRdHdJOEk)'s the spreadsheet. The first sheet is a table of contents and guide. I recommend you clone it to your Google Drive and use it there. Works best when viewed with Google Sheets (It's mostly compatible with Excel, it just looks ugly).
