@@ -3,7 +3,7 @@ It is a spreadsheet for Dungeons and Dragons 5e that lets you easily search huge
 
 **Download link at bottom**
 ## What is it?
-It's a spreadsheet that helps you manage combat. But it's not your standard D&D spreadsheet. It uses three different databases of spells and monsters along with easy search boxes which allow you to have any stat, at any time, no matter what your PC's do.
+It's a spreadsheet that helps you manage combat. But it's not your standard D&D spreadsheet. It uses three different databases of spells and monsters along with easy search boxes which allow you to have any stat, at any time, no matter what your PC's do. It has smart status indicators, an initiative tracker, a map editor, and a NPC tracker that lets you store faces, names and descriptions for up to 190 NPC characters. Everything is easily expandable with some knowledge of spreadsheets.
 ## What features does it have?
 Here's a list:
 * Monster lookup (gives you AC, HP, Ability stat block, damage dice formula and automatic damage rolls)
