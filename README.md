@@ -17,11 +17,8 @@ Here's a list:
 * Onboard composite face generator
    * Generate hundreds of faces automatically, and customize important characters with some really cool conditional formatting
    * Generation and storage of randomized faces per NPC
-* Links to Name Gens:
-   * Cowboy names
-   * Fantasy names
-   * Place names
-   * Modern English names
+* Donjon Name gen linker
+    * Allows you to select a type, a subtype category, and a subtype and links you straight to the donjon page.
 * Onboard name gen
    * Uses Kerbal name parts (e.g Thompfrey) with optional "Kerman" surname.
    * Allows for customization of name parts, and last name parts
