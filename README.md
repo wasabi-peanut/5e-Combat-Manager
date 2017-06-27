@@ -3,7 +3,7 @@ It is a spreadsheet for Dungeons and Dragons 5e that lets you easily search huge
 
 **Download link at bottom**
 ## What is it?
-It's a spreadsheet that helps you manage combat. But it's not your standard D&D spreadsheet. It uses three different databases of spells and monsters along with easy search boxes which allow you to have any stat, at any time, no matter what your PC's do. It has smart status indicators, an initiative tracker, a map editor, and a NPC tracker that lets you store faces, names and descriptions for up to 190 NPC characters. Everything is easily expandable with some knowledge of spreadsheets.
+It's a spreadsheet that helps you manage combat. It uses complete databases of spells and lets you search them easily. It has smart status indicators, an initiative tracker, a map editor, and a NPC tracker that lets you store faces!, names and descriptions for up to 190 NPC characters. Everything is easily expandable with some knowledge of spreadsheets.
 ## What features does it have?
 Here's a list:
 * Monster lookup (gives you AC, HP, Ability stat block, damage dice formula and automatic damage rolls)
@@ -11,9 +11,8 @@ Here's a list:
 * Initiative tracker (characters involved in an encounter are automatically sorted by initiative roll)
 * Stat-tracking grid (tracks XP, AC, HP, and conditions of your PCs or monsters)
 * Handy reference links
-   * Open MM to correct page
+   * Open MM PDF to correct page
    * Search Roll20 Compendium, D20 SRD, or Google for the spell
-   * Open 4d10 (0000-1000) Random Magical Effect PDF
 * Onboard composite face generator
    * Generate hundreds of faces automatically, and customize important characters with some really cool conditional formatting
    * Generation and storage of randomized faces per NPC
@@ -32,7 +31,7 @@ Here's a list:
 **The spreadsheet is well-annotated with notes. Feel free to ask any questions here.**
 
 ## What features are currently planned?
- * Player tracker within map, with movement speed calculation
+ * Player tracker within map, with movement speed and distance calculation
  * Character sheet generator
  * More functional broadcast sheet, with FoW maps.
  
