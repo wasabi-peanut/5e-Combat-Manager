@@ -1,7 +1,9 @@
 # 5e-Combat-Manager
 It is a spreadsheet for Dungeons and Dragons 5e that lets you easily search huge databases of spells and monsters. Also allows you to add custom spells/monsters. Features an automatic dice roller and composite face generator, too.
 
-**Download link at bottom**
+## TL;DR and download
+[Here](https://drive.google.com/open?id=1WGKOTNFB37ucYS4P7iEuVkRPGKzEt9g1bUD0B-LbMOI)'s the spreadsheet. The first sheet is a table of contents and guide. I recommend you clone it to your Google Drive and use it there. Works best when viewed with Google Sheets (It's mostly compatible with Excel, it just looks ugly and breaks some non-essential functionality).
+
 ## What is it?
 It started as a spreadsheet that helps you manage combat, but now can manage some general campaign things. It uses complete databases of monsters and spells and lets you search them easily. It has smart status indicators, an initiative tracker, a map editor, and a NPC tracker that lets you store faces, names and descriptions for up to 190 NPC characters. Everything is easily expandable with some knowledge of spreadsheets.
 
