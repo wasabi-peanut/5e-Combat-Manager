@@ -33,14 +33,15 @@ Here's a list:
    * Conditional formatting makes clear which names are available and which are taken.
 * Broadcast sheet
    * Currently supports showing NPCs faces, with or without names. You can open this sheet on a player-facing display and control it from the sheet with the Face Viewer.
+* Map maker
+  * Lets you build maps with a 3-layer grid (background, objects, and characters). You can broadcast part or all of your map to your players at any time.
    
 **The spreadsheet is well-annotated with notes. Feel free to ask any questions here or at the email address listed in the sheet.**
 
 ## What features are currently planned?
  * Removing all limits on database size
- * Player tracker within map, with movement speed and distance calculation
+ * Player tracker with movement speed and distance calculation
  * Character sheet generator
- * More functional broadcast sheet, with maps (and Fog of War to hide areas from players).
  
 ## What's this GitHub page?
 This is a page that publicly lists the spreadsheet's location, advertises it, and ties it to my other projects. If the Google Drive link changes, this page will always point to it.
